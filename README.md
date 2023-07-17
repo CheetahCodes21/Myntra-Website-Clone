@@ -33,13 +33,14 @@ A Collaborative project built by a team of 4 executed in 5 days.
 - Implementation of local storage on authentications
 - Address, payment, checkout done with using local storage concepts and raw css (No external libraries has been implemented for the same to have a effect !!)
 
-## Contributors  😇
+## Credits  😇
 
 
 - 👤 [Love Porwal](https://github.com/love-porwal)
 - 👤 [Vivek Kumar](https://github.com/VivekKumar2380)
 - 👤 [AnmolSahota](https://github.com/AnmolSahota)
 - 👤 [Shrishambho](https://github.com/Shrishambho)
+- 👤 [ChethanPai](https://github.com/CheetahCodes21)
 
 
 
