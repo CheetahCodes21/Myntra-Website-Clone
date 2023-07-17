@@ -6,9 +6,13 @@ Urban Attire is an e-commerce website where people can buy from wide range of pr
 A Collaborative project built by a team of 4 executed in 5 days.
 
 
-## Demo  🎥
+## Resourse
 
-- Deployed Link:- [Enjoy the Experience](https://cosmic-duckanoo-c53863.netlify.app/)
+- https://www.youtube.com/watch?v=xhWHf-bMElk
+- https://www.youtube.com/watch?v=seBv_43qs2k
+- https://www.youtube.com/watch?v=ZTEWOimgV9k
+- ChatGbt 😅
+  
 
 
 ## Tech Stack 💻
